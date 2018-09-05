@@ -1,0 +1,1 @@
+crear un programa que lea un archivo txt e imprima el numero de lineas del archivo.
